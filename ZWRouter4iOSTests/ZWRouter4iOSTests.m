@@ -1,17 +1,17 @@
 //
-//  BaleTestTests.m
-//  BaleTestTests
+//  ZWRouter4iOSTests.m
+//  ZWRouter4iOSTests
 //
-//  Created by 吴章平 on 2021/6/17.
+//  Created by 吴章平 on 2021/7/5.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface BaleTestTests : XCTestCase
+@interface ZWRouter4iOSTests : XCTestCase
 
 @end
 
-@implementation BaleTestTests
+@implementation ZWRouter4iOSTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
